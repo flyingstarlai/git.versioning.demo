@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MpE",
+				"MpentrySerializer"
+			],
+			[
+				"mp",
+				"mpentry"
+			],
+			[
+				"ITE",
+				"ITEM"
+			],
+			[
+				"PUR_N",
+				"PUR_NO_CHECK"
+			],
+			[
+				"pu",
+				"pur_no"
+			],
+			[
+				"PUR",
+				"PUR_NO"
+			],
+			[
+				"ITEM",
+				"ITEMDESC"
+			],
+			[
+				"I",
+				"ITEM"
+			],
+			[
+				"M",
+				"MA002"
+			],
+			[
+				"Pur",
+				"PurCheckSerializer"
+			],
+			[
+				"pur",
+				"pur_qty"
+			],
+			[
+				"mo_te",
+				"mo_temp_list"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"doc",
+				"docfile"
+			],
+			[
+				"dis",
+				"disp_all_mo"
+			],
+			[
+				"W",
+				"WORKNA"
+			],
+			[
+				"WOR",
+				"WORKNO"
+			],
+			[
+				"Dis",
+				"DispHum"
+			],
+			[
+				"WO",
+				"WorkType"
+			],
+			[
+				"WORK",
+				"WORKNA"
+			],
+			[
+				"q",
+				"query_object"
+			],
+			[
+				"CH",
+				"CheckMac"
+			],
+			[
+				"sni",
+				"snippets_obj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 338.0,
+		"last_filter": "Pack",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/webapp/gitversioning/team_one/git.versioning.demo",
+		"/webapp/gitversioning/team_one/git.versioning.demo/src"
+	],
+	"file_history":
+	[
+		"/webapp/receiptapi/src/receiptapi/settings.py",
+		"/webapp/csvimport/src/locale/zh_Hant/LC_MESSAGES/django.po",
+		"/webapp/csvimport/src/csvimport/settings.py",
+		"/webapp/csvimport/src/AdminLTE/widgets/sidebar.py",
+		"/webapp/csvimport/src/AdminLTE/templates/AdminLTE/page.html",
+		"/webapp/csvimport/src/csvtools/templates/csvtools/csvtools_list.html",
+		"/webapp/csvimport/src/AdminLTE/templates/php_report.html",
+		"/webapp/csvimport/src/AdminLTE/templates/php_form.html",
+		"/webapp/csvimport/src/csvtools/views.py",
+		"/webapp/csvimport/src/AdminLTE/templates/AdminLTE/sidebar.html",
+		"/webapp/csvimport/src/AdminLTE/default_settings.py",
+		"/webapp/csvimport/src/locale/zh_TW/LC_MESSAGES/django.po",
+		"/webapp/csvimport/src/csvimport/urls.py",
+		"/webapp/csvimport/src/csvtools/queries.py",
+		"/webapp/csvimport/src/csvtools/forms.py",
+		"/webapp/csvimport/src/csvtools/urls.py",
+		"/webapp/csvimport/src/csvtools/csvmodels.py",
+		"/webapp/csvimport/src/csvupload/views.py",
+		"/webapp/csvimport/src/csvimport/wsgi.py",
+		"/webapp/csvimport/src/csvupload/urls.py",
+		"/webapp/csvimport/src/csvtools/models.py",
+		"/webapp/csvimport/src/csvtools/mixins.py",
+		"/webapp/qrscanner/src/qrscanner/urls.pyc",
+		"/webapp/qrscanner/src/qrscanner/urls.py",
+		"/webapp/djangoadminlte/src/djangoadminlte/settings.py",
+		"/webapp/csvimport/src/djangoadminlte/settings.py",
+		"/webapp/csvimport/src/djangoadminlte/urls.py",
+		"/webapp/csvimport/src/djangoadminlte/wsgi.py",
+		"/webapp/djangoadminlte/src/AdminLTE/templatetags/AdminLTE.py",
+		"/webapp/csvimport/src/csvupload/forms.py",
+		"/webapp/csvimport/src/csvupload/csvtools",
+		"/webapp/csvimport/src/csvupload/templates/list.html",
+		"/webapp/qrscanner/src/snippets/views.py",
+		"/webapp/qrscanner/src/qrscanner/settings.py",
+		"/webapp/qrscanner/src/qrsave/queries.py",
+		"/webapp/qrscanner/src/qrsave/models.py",
+		"/webapp/qrscanner/src/qrdisp/views.py",
+		"/webapp/qrscanner/src/qrdisp/queries.py",
+		"/webapp/qrscanner/src/qrdisp/serializers.py",
+		"/webapp/qrscanner/src/qrcheck/queries.py",
+		"/webapp/qrscanner/src/qrcheck/views.py",
+		"/webapp/qrscanner/src/qrdisp/urls.py",
+		"/webapp/qrscanner/src/qrcheck/urls.py",
+		"/webapp/qrscanner/src/qrcheck/serializers.py",
+		"/webapp/qrscanner/src/qrcheck/models.py",
+		"/webapp/qrscanner/src/snippets/urls.py",
+		"/webapp/qrscanner/src/snippets/serializers.py",
+		"/webapp/qrscanner/src/qrdisp/models.py",
+		"/webapp/qrscanner/src/qrcheck/admin.py",
+		"/serverapp/line/argument.java",
+		"/serverapp/line/botchat.py",
+		"/webapp/qrscanner/src/snippets/signals.py",
+		"/webapp/qrscanner/src/snippets/__init__.py",
+		"/webapp/qrscanner/src/snippets/permissions.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/webapp/csvimport/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Email",
+			"AdminLte",
+			"N003",
+			"csv_list",
+			"Execute",
+			"form",
+			"LOCALE_PATHS",
+			"mo_temp",
+			"djangoadminlte",
+			"djangoadmintle",
+			"css",
+			"MULT_CHECK",
+			"@",
+			"models.Model",
+			"None",
+			"check",
+			"models.Model",
+			"serializers.ModelSerializer",
+			"MAC_CODE",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"object",
+			"csvimport",
+			"def __init__(self, muser, userna, created=None):",
+			"object",
+			"serializers.Serializer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "gitcontrol-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
